@@ -1,0 +1,3 @@
+[submodule "javascript/OpenCVjs"]
+	path = javascript/OpenCVjs
+	url = https://github.com/sakiyamaK/OpenCVjs.git
